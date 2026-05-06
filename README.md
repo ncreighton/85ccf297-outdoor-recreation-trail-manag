@@ -2,6 +2,7 @@
 
 
 
+
 ---
 
 ## Free vs Pro
@@ -22,5 +23,9 @@
 
 Get the full version with all premium features, priority support, and lifetime updates.
 
-**[Get Pro Version](https://aevornsell.gumroad.com/l/itjmk)**
+**[Get Pro Version](https://buy.stripe.com/00wdR926H0bWg88avOcZa3K)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00wdR926H0bWg88avOcZa3K)
+- [Buy on Gumroad](https://aevornsell.gumroad.com/l/itjmk)
+- [Buy on Whop](https://whop.com/outdoor-recreation-trail-management-and-safety-alert-notion-template)
 
